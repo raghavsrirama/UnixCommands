@@ -2,7 +2,7 @@
 
 sudo yum install httpd -y
 
-sudo su - ec2-user:wq!
+sudo su - ec2-user
 
 systemctl status httpd
 systemctl stop httpd
