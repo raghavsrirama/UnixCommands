@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 sudo yum install httpd -y
 systemctl status httpd
